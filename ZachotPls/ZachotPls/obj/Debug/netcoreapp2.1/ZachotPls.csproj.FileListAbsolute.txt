@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\bin\Debug\netcoreapp2.1\ZachotPls.deps.json
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\bin\Debug\netcoreapp2.1\ZachotPls.runtimeconfig.json
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\bin\Debug\netcoreapp2.1\ZachotPls.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\bin\Debug\netcoreapp2.1\ZachotPls.dll
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\bin\Debug\netcoreapp2.1\ZachotPls.pdb
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\obj\Debug\netcoreapp2.1\ZachotPls.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\obj\Debug\netcoreapp2.1\ZachotPls.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\obj\Debug\netcoreapp2.1\ZachotPls.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\obj\Debug\netcoreapp2.1\ZachotPls.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\obj\Debug\netcoreapp2.1\ZachotPls.dll
+C:\Users\Пользователь\source\repos\ZachotPls\ZachotPls\obj\Debug\netcoreapp2.1\ZachotPls.pdb
